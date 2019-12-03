@@ -15,6 +15,7 @@ namespace CliffGame
             Game.WaitForEnter();
 
             ScrollingText.ScrollUp("Cliff's Game");
+            ScrollingText.ScrollUp("Programmed by Isaac Colson");
        
             var game = new Game();
 
