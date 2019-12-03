@@ -1,0 +1,5 @@
+/Users/isaaccolson/Projects/CliffGame/CliffGame/obj/Debug/CliffGame.csprojAssemblyReference.cache
+/Users/isaaccolson/Projects/CliffGame/CliffGame/bin/Debug/CliffGame.exe
+/Users/isaaccolson/Projects/CliffGame/CliffGame/bin/Debug/CliffGame.pdb
+/Users/isaaccolson/Projects/CliffGame/CliffGame/obj/Debug/CliffGame.exe
+/Users/isaaccolson/Projects/CliffGame/CliffGame/obj/Debug/CliffGame.pdb
